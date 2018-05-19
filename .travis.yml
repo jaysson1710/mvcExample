@@ -28,3 +28,4 @@ script:
   - ./build.sh --quiet verify
 env:
   - KOREBUILD_TEST_SKIPMONO=1
+  
